@@ -6,8 +6,6 @@ public class Main {
         System.out.println("test3");
         System.out.println("test4");
         System.out.println("test5");
-        System.out.println("test6");
-        System.out.println("test7");
     }
 
     public static void 기능1() {}
