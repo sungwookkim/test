@@ -3,5 +3,6 @@ public class Main {
         System.out.println("main");
         System.out.println("기능1");
         System.out.println("기능2");
+        System.out.println("기능3");
     }
 }
