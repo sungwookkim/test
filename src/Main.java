@@ -7,7 +7,7 @@ public class Main {
         System.out.println("test4");
     }
 
-    public static void 기능1() {}
-    public static void 기능2() {}
-    public static void 기능3() {}
+    public static void 기능1() {
+
+    }
 }
