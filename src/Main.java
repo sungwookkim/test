@@ -5,6 +5,7 @@ public class Main {
         System.out.println("test2");
         System.out.println("test3");
         System.out.println("test4");
+        System.out.println("test5");
     }
 
     public static void 기능1() {}
