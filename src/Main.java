@@ -9,4 +9,5 @@ public class Main {
 
     public static void 기능1() {}
     public static void 기능2() {}
+    public static void 기능3() {}
 }
