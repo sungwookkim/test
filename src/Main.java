@@ -66,6 +66,9 @@ public class Main {
 
         // feature/6-3
         System.out.println("f63");
+
+        // feature/6-4
+        System.out.println("f64");
     }
 
     public static void 기능1() {}
