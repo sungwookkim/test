@@ -57,6 +57,15 @@ public class Main {
 
         // feature/5-3
         System.out.println("f53");
+
+        // feature/6-1
+        System.out.println("f61");
+
+        // feature/6-2
+        System.out.println("f62");
+
+        // feature/6-3
+        System.out.println("f63");
     }
 
     public static void 기능1() {}
