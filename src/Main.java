@@ -44,6 +44,9 @@ public class Main {
 
         // feature/4(bugfix)
         System.out.println("f4-bugfix");
+
+        // feature/4(bugfix-2)
+        System.out.println("f4-bugfix-2");
     }
 
     public static void 기능1() {}
