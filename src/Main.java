@@ -20,6 +20,9 @@ public class Main {
 
         // feature/2-2
         System.out.println("f22");
+
+        // feature/2-3
+        System.out.println("f23");
     }
 
     public static void 기능1() {}
