@@ -5,9 +5,7 @@ public class Main {
         System.out.println("test2");
         System.out.println("test3");
         System.out.println("test4");
-<<<<<<< HEAD
         System.out.println("test5");
-=======
 
         // feature/1-1
         System.out.println("f1");
@@ -47,7 +45,12 @@ public class Main {
 
         // feature/4(bugfix)
         System.out.println("f4-bugfix");
->>>>>>> ff989308bf8b8a8560cb097fd341bfc5fb084476
+
+        // feature/4(bugfix-2)
+        System.out.println("f4-bugfix-2");
+
+        // feature/5-1
+        System.out.println("f51");
     }
 
     public static void 기능1() {}
