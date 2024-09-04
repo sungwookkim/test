@@ -32,6 +32,15 @@ public class Main {
 
         // feature/3-3
         System.out.println("f33");
+
+        // feature/4-1
+        System.out.println("f41");
+
+        // feature/4-2
+        System.out.println("f42");
+
+        // feature/4-3
+        System.out.println("f43");
     }
 
     public static void 기능1() {}
