@@ -10,7 +10,10 @@ public class Main {
         System.out.println("f1");
 
         // feature/1-2
-        System.out.println("f1");
+        System.out.println("f2");
+
+        // feature/1-3
+        System.out.println("f3");
     }
 
     public static void 기능1() {}
